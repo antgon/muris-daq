@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="icon.svg">./icon.svg</file>
+</qresource>
+</RCC>
